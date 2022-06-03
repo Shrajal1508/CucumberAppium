@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="23.019359">
+    <testcase classname="Verify date and time feature and Set as End Test Submission deadline" name="Change Date" time="18.841953">
+        <system-out>
+            <![CDATA[Given API demos application is open.........................................passed
+When Clicked on Views.......................................................passed
+And Clicked on Date Widgets.................................................passed
+And Clicked on Dialog.......................................................passed
+And Click on Change the Date................................................passed
+And Change the Date.........................................................passed
+Then Verify the changed date................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Verify date and time feature and Set as End Test Submission deadline" name="Change Time" time="4.177406">
+        <system-out>
+            <![CDATA[When Click on Change the Time...............................................passed
+And Change the Time.........................................................passed
+Then Verify the changed time................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>

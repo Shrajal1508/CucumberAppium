@@ -1,0 +1,15 @@
+2022-06-03 10:53:57,260  INFO [main] Hooks:36 - **************** LOG STARTED ****************
+2022-06-03 10:53:57,264  INFO [main] Hooks:16 - *************** server started ***************
+2022-06-03 10:54:18,050  INFO [main] Hooks:19 - ***************app_is_started has started ***************
+2022-06-03 10:54:38,101  INFO [main] Hooks:62 - **************** LOG ENDED **************** 
+
+2022-06-03 10:54:38,102 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-06-03 10:54:38,103 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-06-03 10:54:38,104 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-06-03 10:54:38,105 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-06-03 10:54:38,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shrajalsingh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2022-06-03 10:54:38,144 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2022-06-03 10:54:38,145 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2022-06-03 10:54:38,146 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2022-06-03 10:54:38,147 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2022-06-03 10:54:38,147 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/shrajalsingh/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
